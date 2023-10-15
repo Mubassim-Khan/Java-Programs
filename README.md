@@ -17,3 +17,12 @@ The rest are OOP (Object Oriented Programming) programs, covering building block
 - Inner Classes
 
 #### * Note: Each file consists of multiple examples in it & are commented out to keep the main class same & free of error.  
+
+## Contact
+
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+
+- LinkedIn: [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim-ahmed-khan/)
+- Email: [mubassimkhan@gmail.com](mailto:mubassimkhan@gmail.com)
+
+---
